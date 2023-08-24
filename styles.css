@@ -27,15 +27,15 @@ p,ul {
   line-height: 1.5;
   color: #666;
   margin-bottom: 15px;
-  margin-left: 20px; /* Add margin to the left */
+  margin-left: 20px;
 }
 h1, h2, h3, h4, h5, h6 {
   color: #222;
   margin: 10px 0;
-  margin-left: 20px; /* Add margin to the left */
+  margin-left: 20px;
 }
 
 quote {
   font-family: 'Work Sans', sans-serif;
-  margin-left: 20px; /* Add margin to the left */
+  margin-left: 20px;
 }
