@@ -11,7 +11,7 @@ body {
 }
 header {
   font-size: 2.5rem;
-  font-family: 'Tilt Prism', cursive;
+  font-family: 'Work Sans', sans-serif;
   text-align: center;
   width: 100%;
   position: fixed;
@@ -36,6 +36,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 quote {
-  font-family: 'Work Sans', sans-serif;
+  font-family: 'Work Sans ' , sans-serif;
+  font-weight: 100;
+  font-style: italic;
   margin-left: 20px;
 }
